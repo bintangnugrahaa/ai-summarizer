@@ -1,5 +1,5 @@
 # Build and Deploy Your Own ChatGPT AI SaaS Business with React
-![Copy of Copy of Copy]()
+![Copy of Copy of Copy](src/assets/copy-of-copy.png)
 
 ### Cloning the repository
 
