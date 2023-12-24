@@ -1,21 +1,26 @@
 # Build and Deploy Your Own ChatGPT AI SaaS Business with React
-![AI Summarizer](https://i.ibb.co/NK12JG2/Thumbnail-26.png)
+![Copy of Copy of Copy]()
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+### Cloning the repository
 
-## Introduction
-If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an Article Summarizer Application using OpenAI's GPT model.
- 
-Alongside building this application, you'll also learn how to:
-- setup a ReactJS project using Vite
-- create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
-- make advanced RTK query API requests that fire on condition
-- save history using the local storage
-- handle form events and catch errors
-- implement copy to clipboard
-- write clean code
+```shell
+git clone https://github.com/bintangnugrahaa/ai-image-generation.git
+```
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+### Install packages
+
+```shell
+npm install
+```
+
+### Setup .env file
+
+
+```js
+VITE_RAPID_API_ARTICLE_KEY=
+```
+
+```shell
+npxm run dev
+
+```
