@@ -20,7 +20,8 @@ npm install
 VITE_RAPID_API_ARTICLE_KEY=
 ```
 
-```shell
-npxm run dev
+### Start the app
 
+```shell
+npm run dev
 ```
